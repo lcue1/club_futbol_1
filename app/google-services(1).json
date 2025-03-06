@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "518764826382",
+    "project_id": "prototipo-club-de-futbol",
+    "storage_bucket": "prototipo-club-de-futbol.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518764826382:android:a31caf7e85405a9e68115f",
+        "android_client_info": {
+          "package_name": "com.example.club_futbol_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518764826382-1gfpk69fqsldji79ngi3kv942qc8rklc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.club_futbol_1",
+            "certificate_hash": "bcff158dc68130b1d1bce0e92f426cf7965f3d05"
+          }
+        },
+        {
+          "client_id": "518764826382-54eippm5r1un0ttap2pamo5g586e58jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsdqSysEGrEAhYj4XDmtJGev1EtBduZ3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518764826382-54eippm5r1un0ttap2pamo5g586e58jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
