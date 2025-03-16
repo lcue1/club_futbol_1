@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Gradiente en el fondo con efectos -->
+    <gradient android:endColor="@color/black"
+    android:startColor="@color/fondo_app"
+    android:angle="90"
+    android:type="linear" />
+    <!-- Sombra (si lo deseas) -->
+    <padding
+        android:left="8dp"
+        android:top="8dp"
+        android:right="8dp"
+        android:bottom="8dp" /> <!-- Agrega un padding para mayor efecto visual -->
+</shape>
